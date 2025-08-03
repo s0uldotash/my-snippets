@@ -1,5 +1,3 @@
-# money-power-respect
+# snippets
 
-exploits for fivem so you can learn how to patch them or use them... 
-
-weird backdoor dumping method going around in leaked/escrow/reseller/obfuscated scripts
+snippets that have either been patched or not (bad and good)
